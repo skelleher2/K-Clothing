@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "\"editor.fontFamily\": \"Operator Mono, Consolas, 'Courier New', monospace\"",
+    "editor.fontLigatures": true,
+    "editor.tokenColorCustomizations": null,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontWeight": null,
+    "terminal.integrated.fontWeightBold": null
+}
