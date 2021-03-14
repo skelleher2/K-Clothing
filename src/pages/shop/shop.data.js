@@ -6,7 +6,7 @@ const SHOP_DATA = [
     items: [
       {
         id: 1,
-        name: 'Brown Brim',
+        name: 'Brown Fedora',
         imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
         price: 25
       },
@@ -24,7 +24,7 @@ const SHOP_DATA = [
       },
       {
         id: 4,
-        name: 'Grey Brim',
+        name: 'Grey Rancher',
         imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
         price: 25
       },
@@ -140,7 +140,7 @@ const SHOP_DATA = [
       },
       {
         id: 21,
-        name: 'Brown Shearling',
+        name: 'Bomber Jacket',
         imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
         price: 165
       },
@@ -159,7 +159,7 @@ const SHOP_DATA = [
     items: [
       {
         id: 23,
-        name: 'Blue Tanktop',
+        name: 'Green Tanktop',
         imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
         price: 25
       },
@@ -220,7 +220,7 @@ const SHOP_DATA = [
       },
       {
         id: 32,
-        name: 'Black & White Longsleeve',
+        name: 'Black & White Retro Longsleeve',
         imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
         price: 25
       },
